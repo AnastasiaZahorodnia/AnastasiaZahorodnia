@@ -1,4 +1,4 @@
-# Anastasia-Zahorodnia
+# AnastasiaZahorodnia
 
 # 👋 Welcome to Anastasia Zahorodnia Portfolio!
 
