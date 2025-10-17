@@ -7,11 +7,8 @@
 
 ## 👨‍💻 About Me
 
-Hi! I’m Anastasia Zahorodnia — a passionate and versatile software developer with a strong focus on Python backend development, machine learning, and front-end technologies.
-
-With a background as a Python teacher, I’ve guided over 100 students across all levels, delivering real-world results through hands-on web development, data science, and game development projects. I enjoy solving problems, writing clean and scalable code, and collaborating with others to build impactful solutions.
-
-Currently studying Software Engineering at Berlin42, I am excited by challenges at the intersection of backend architecture, machine learning, and modern front-end experiences.
+Hi! I’m Anastasia Zahorodnia!
+I am dynamic Python Developer with two years of experience in instructional and developmental roles, adept at fostering technical skills in programming and backend architecture. Proven expertise in Python, Django, and SQL, facilitating the creation of robust web applications and effective training programs. A track record of successfully guiding students through complex projects and collaborating with teams to enhance application functionality. Committed to delivering high-quality code and innovative solutions, driving both learning outcomes and project success.
 
 
 ## 🛠 Programming Skills & Technologies
